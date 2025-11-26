@@ -65,7 +65,10 @@
         </dependency>
 
         <!-- langchain4j -->
-
+        <dependency>
+            <groupId>dev.langchain4j</groupId>
+            <artifactId>langchain4j</artifactId>
+        </dependency>
 
 <!--        测试-->
         <dependency>
